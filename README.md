@@ -20,8 +20,6 @@ This game requires you to own [Buckshot Roulette](https://store.steampowered.com
 
 # Credits
 First of all, I would like to thank [Nobre](https://github.com/NobreHD/) for helping me throughout the journey, as he provided all documentation I used, he also helped me by giving me some of his code that I couldn't figure out on my own due to my lack of experience with Buckshot Roulette.
-Models used:
-["Flap Jack"](https://skfb.ly/oC6Vr) by Autistic Badass Conceptual Artist is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 
 
 <!-- Also this is an alternative universe to BR, because I can't expand on it's still uncovered story, but it does have SOME stuff from it. Maybe your lazy asses should get to exploring the frickin archive, huh? !-->
