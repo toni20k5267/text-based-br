@@ -7,7 +7,8 @@ A text-based client for the hit game Buckshot Roulette. Made with Godot, love, a
 Do you really think you can defeat everyone in a brutal game of Buckshot Roulette, which is like russian roulette but with a shotgun instead of a revolver? Think you can become the ███ of this game?! Try your luck in a text-based, retro-looking adventure with immersion as good as putting on a crt filter over a green text terminal interface can be!
 
 # Screenshots
-<img src="/"><img src="/"><img src="/"><img src="/">
+<img src="https://github.com/toni20k5267/text-based-br/blob/main/20260406220051_1.jpg"><img src="https://github.com/toni20k5267/text-based-br/blob/main/20260406224933_1.jpg"><img src="https://github.com/toni20k5267/text-based-br/blob/main/20260406225215_1.jpg"> 
+  <h6><details><summary>I hope you like it.</summary><img src="https://github.com/toni20k5267/text-based-br/blob/main/20260406225511_1.jpg"></details></h6>
 
 # Why?
 Buckshot Roulette was missing a macOS multiplayer client, and recently I got quite a bit more into text based games, especially with a retro style like that. This project also helped me learn how to use the Steam api with Godot, which is quite helpful.
