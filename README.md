@@ -17,6 +17,13 @@ The codebase is dogshit. I am NOT releasing that shit bruh. Also if you want som
 
 # Disclaimer
 This game requires you to own [Buckshot Roulette](https://store.steampowered.com/app/2835570/Buckshot_Roulette/) on Steam. It shouldn't work if you don't. If it does please [open an issue](https://github.com/toni20k5267/text-based-br/issues/new?title=text-based-br%20works%20without%20owning%20the%20game%20on%20Steam.).
+
+# Credits
+First of all, I would like to thank [Nobre](https://github.com/NobreHD/) for helping me throughout the journey, as he provided all documentation I used, he also helped me by giving me some of his code that I couldn't figure out on my own due to my lack of experience with Buckshot Roulette.
+Models used:
+["Flap Jack"](https://skfb.ly/oC6Vr) by Autistic Badass Conceptual Artist is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+
+
 <!-- Also this is an alternative universe to BR, because I can't expand on it's still uncovered story, but it does have SOME stuff from it. Maybe your lazy asses should get to exploring the frickin archive, huh? !-->
 
 <!-- For ███'s sake, who thought making this was a good idea? !-->
